@@ -1,0 +1,14 @@
+html {
+    color: white;
+    background-image: url(img/floresta.jpg);
+    background-size: cover;
+    
+    
+}
+.cabecalho {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
